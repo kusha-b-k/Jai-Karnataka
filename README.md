@@ -1,5 +1,5 @@
 # Jai-Karnataka
-Bouncing text animation
+Bouncing Kannada text animation
 
 
 
